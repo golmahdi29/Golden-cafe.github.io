@@ -1,3 +1,1 @@
-esbuild.build({
-  external: ['*.woff2']
-})
+url('/fonts/*')
